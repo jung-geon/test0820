@@ -1,7 +1,8 @@
 #include <iostream>
-using namespaece std;
+using namespace std;
 
 void main()
 {
-  std << "Hi" << endl;
-}
+  cout << "Hi" << endl;
+  cout << "GoodJob" << endl
+} 
